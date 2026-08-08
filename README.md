@@ -85,9 +85,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
