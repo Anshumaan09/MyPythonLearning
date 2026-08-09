@@ -82,6 +82,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0217-contains-duplicate) |
+| [0643-maximum-average-subarray-i](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,4 +116,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
