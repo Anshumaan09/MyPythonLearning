@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -101,6 +102,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0125-valid-palindrome) |
@@ -109,4 +111,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
