@@ -11,7 +11,7 @@ class Solution:
 
             var_present.add(s[end])
 
-            current_len = end - start + 1
-            max_length = max(max_length, current_len)
+            # current_len = end - start + 1
+            max_length = max(max_length, end - start + 1)
         return max_length
 
