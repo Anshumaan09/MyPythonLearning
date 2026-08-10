@@ -90,12 +90,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0242-valid-anagram) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0242-valid-anagram) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -122,5 +124,10 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0643-maximum-average-subarray-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
