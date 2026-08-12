@@ -81,6 +81,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0015-3sum](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
@@ -119,6 +120,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0209-minimum-size-subarray-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -127,6 +129,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0209-minimum-size-subarray-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0643-maximum-average-subarray-i) |
@@ -134,4 +137,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
