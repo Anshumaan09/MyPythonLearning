@@ -84,6 +84,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0209-minimum-size-subarray-sum](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +122,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
