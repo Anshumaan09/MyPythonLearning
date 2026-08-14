@@ -6,7 +6,7 @@ class Solution:
             mid = left + (right - left)//2
             if nums[mid] == min(nums):
                 return nums[mid]
-            if nums[mid] >= nums[right]:
+            if nums[mid] > nums[right]:
                 left = mid + 1
             else:
                 right = mid -1 
