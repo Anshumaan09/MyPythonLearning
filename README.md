@@ -169,4 +169,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0074-search-a-2d-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
