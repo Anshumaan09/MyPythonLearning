@@ -117,6 +117,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0143-reorder-list) |
@@ -173,6 +174,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0206-reverse-linked-list) |
