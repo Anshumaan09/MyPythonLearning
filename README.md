@@ -89,6 +89,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0217-contains-duplicate](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,6 +192,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0020-valid-parentheses](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -199,4 +201,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
