@@ -102,6 +102,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -187,5 +188,10 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0143-reorder-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
