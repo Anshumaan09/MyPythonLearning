@@ -119,6 +119,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0015-3sum](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0567-permutation-in-string) |
 ## Binary Search
@@ -173,10 +174,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Anshumaan09/MyPythonLearning/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
